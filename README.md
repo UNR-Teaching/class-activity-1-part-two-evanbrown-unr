@@ -1,10 +1,11 @@
 # Class Activity 1 part two
+# Evan Brown & Erik Johnson
 
 Your first paired programming problem!
 
 ### Problem
  	
-Pair up with a another student. One will be the driver the other one will be the..... “wayne’s world!! party time!!! excellent!!!....... navigator. Swap roles every ten minutes. We are going to do a number of simple exercises to familiarize ourselves with Python, PyCharm and some object oriented design principles.              
+Pair up with a another student. One will be the driver the other one will be the..... “wayne’s world!! party time!!! excellent!!!....... navigator. Swap roles every ten minutes. We are going to do a number of simple exercises to familiarize ourselves with Python, PyCharm and some object oriented design principles.
 
 Assignment 1: Implement a simple car class for Wayne’s ford pinto and a bicycle class for  Garth’s BMX bike.  Create constructors for each class. Use a class with a main method to instantiate/test each class. 
 
